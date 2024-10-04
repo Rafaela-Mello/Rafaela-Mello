@@ -11,9 +11,6 @@
 
 ## Contact
 <section>
-    <a href="https://wa.me/5514991305798" target="_blank" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp">
-    </a>
     <a href="mailto:rafaelamello2404@gmail.com" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-email&logoColor=white"  alt="Email">
     </a>
