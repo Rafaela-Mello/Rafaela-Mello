@@ -25,9 +25,9 @@
 ### Skills
 
 <div align="left">
-
-  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,azure,css,html,js,ts,nodejs,react,neovim,visualstudio,vscode,ubuntu,linux,obsidian,go,postman,git,github,figma,docker,postgres,mysql,flutter&perline=3)](https://skillicons.dev)
-
+    
+  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,azure,css,html,js,ts,nodejs,react,neovim,vscode,ubuntu,linux,obsidian,go,postman,git,github,figma,docker,postgres,mysql,flutter&perline=12)](https://skillicons.dev)
+  
 </div>
 
 ### Languages
