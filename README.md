@@ -5,7 +5,6 @@
 ###
 
 - Cursando Análise e Desenvolvimento de Sistemas pelo IFSP!</h5>
-- Aluna do curso da Samsung Innovation Campus!</h5>
 
 ###
 
