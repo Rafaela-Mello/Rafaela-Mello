@@ -2,9 +2,9 @@
 
 ###
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo Instituto Federal de São Paulo (IFSP)
-- 🤖 Formação complementar em Programação Python e Inteligência Artificial pela Samsung Innovation Campus (6 meses)
-- 💼 Estagiária em Desenvolvimento de Sistemas - FullStack
+- 🎓 Studying Systems Analysis and Development at the Federal Institute of São Paulo (IFSP)
+- 🤖 Complementary training in Python Programming and Artificial Intelligence at Samsung Innovation Campus (6 months)
+- 💼 Systems Development Intern - FullStack
 
 ###
 
