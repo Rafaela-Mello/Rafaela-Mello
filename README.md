@@ -13,9 +13,6 @@
     <a href="https://br.linkedin.com/in/rafa-mello">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:rafaelamello2404@gmail.com" target="_blank" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-email&logoColor=white"  alt="Email">
-    </a>
 </section>
 
 ###
