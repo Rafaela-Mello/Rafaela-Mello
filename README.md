@@ -22,7 +22,7 @@
 
 <div align="left">
     
-  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,go,java,eclipse,php,css,html,js,ts,bootstrap,nodejs,react,materialui,neovim,vscode,visualstudio,androidstudio,ubuntu,linux,obsidian,postman,git,github,azure,aws,firebase,docker,npm,yarn,postgres,mysql,figma,obsidian&perline=13)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,dotnet,go,java,eclipse,php,css,html,js,ts,bootstrap,nodejs,react,materialui,neovim,vscode,visualstudio,androidstudio,ubuntu,linux,postman,git,github,azure,aws,firebase,docker,npm,yarn,postgres,mysql,figma,obsidian&perline=13)](https://skillicons.dev)
   
 </div>
 
