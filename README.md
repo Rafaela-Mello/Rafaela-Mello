@@ -10,7 +10,7 @@
 
 ## Contact
 <section>
-    <a href="https://br.linkedin.com/in/rafa-mello">
+    <a href="https://br.linkedin.com/in/rafa-mello" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </section>
