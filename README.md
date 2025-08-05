@@ -2,9 +2,9 @@
 
 ###
 
-🎓 Studying Systems Analysis and Development at the Federal Institute of São Paulo (IFSP)
-🤖 Complementary training in Python Programming and Artificial Intelligence at Samsung Innovation Campus (6 months)
-💼 Systems Development Intern - FullStack
+- 🎓 Studying Systems Analysis and Development at the Federal Institute of São Paulo (IFSP)
+- 🤖 Complementary training in Python Programming and Artificial Intelligence at Samsung Innovation Campus (6 months)
+- 💼 Systems Development Intern - FullStack
 
 ###
 
